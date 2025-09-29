@@ -1,5 +1,14 @@
+.vscode
+.env
 build
+dist
+__pycache__
+selenium_user_data
+output
+poetry.build
 dist
 
 *.jpg
-*.spec
+*.spe
+
+poetry.lock
